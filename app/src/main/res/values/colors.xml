@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary">#6C4CF1</color>
+    <color name="primary_dark">#4B2ED6</color>
+    <color name="secondary">#00D9C0</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#0E0E14</color>
+    <color name="surface_light">#F5F5FA</color>
+    <color name="surface_dark">#1A1A24</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="error">#FF4D4D</color>
+    <color name="splash_bg">#0E0E14</color>
+</resources>
